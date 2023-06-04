@@ -1,0 +1,4 @@
+mysql_connector_repackaged==0.3.1
+Pillow==9.3.0
+recipe_scrapers==14.24.0
+requests==2.25.1
