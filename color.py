@@ -1,0 +1,13 @@
+# Font types.
+bold	  = '\033[1m'
+underline = '\033[4m'
+# Font states.
+title	  = '\033[95m'
+good	  = '\033[92m'
+warn	  = '\033[93m'
+bad		  = '\033[91m'
+endc	  = '\033[0m'
+# Font colors
+blue	  = '\033[94m'
+cyan	  = '\033[96m'
+red		  = '\033[91m'
