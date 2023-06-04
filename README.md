@@ -68,3 +68,7 @@ Admittedly, it's very primitive at the moment, only looking at the title as a me
 #### database.sql
 `database.sql` contains all SQL code you need to setup a Spatula database.
 You can freely modify the category names and titles where you see fit, though defaults are provided. Your changes will have to be reflected in `spatula.py`.
+
+## TODO
+- [ ] Work on README.md, specifically style and orgainzation
+- [ ] Test URLs in `sitelist.md`
