@@ -186,6 +186,5 @@ def PrintMOTD():
     print(f"rethy.xyz (C) 2023")
     print("")
 def PrintVersion():
-    print(f"{VERSION}")
     print(f"Past versions can be found at {PROJECT_LINK}")
     print("")
