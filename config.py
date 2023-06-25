@@ -38,5 +38,4 @@ DefaultHashArray = [
 # Build information.
 TITLE = "Spatula"
 DESCRIPTION = "An incremental recipe scraper"
-PROJECT_LINK = "https://rethy.xyz/Projects/Spatula"
-VERSION = "v1.0 - First release"
+PROJECT_LINK = "https://github.com/rethyxyz/Spatula"
