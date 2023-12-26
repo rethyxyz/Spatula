@@ -62,7 +62,7 @@ Linux x64/x86 is required.
 
 #### tagger.py
 `tagger.py` decides what category/categories a recipe should be in.
-Admittedly, it's very primitive at the moment, only looking at the title as a means to determine whether or not a recipe should be a member of a category. This is very limited, as you do have titles such as "Beer Batter", which in the past would end up going in the "Drinks" category. This has been subverted by using exemption keywords, which stops certain title strings - such as "beer batter" - from being included in certain categories. It is over-engineered, and frankly underpreforming, but it does the job, albeit with many recipes being skipped due to the title limitation.
+Admittedly, it's very primitive at the moment, only looking at the title as a means to determine whether or not a recipe should be a member of a category. This is very limited, as you do have titles such as "Beer Batter", which in the past would end up going in the "Drinks" category. This has been subverted by using exemption keywords, which stops certain title strings - such as "beer batter" - from being included in certain categories. It is over-engineered, and frankly underperforming, but it does the job, albeit with many recipes being skipped due to the title limitation.
 `tagger.py` needs work.
 
 #### database.sql
@@ -70,5 +70,5 @@ Admittedly, it's very primitive at the moment, only looking at the title as a me
 You can freely modify the category names and titles where you see fit, though defaults are provided. Your changes will have to be reflected in `spatula.py`.
 
 ## TODO
-- [ ] Work on README.md, specifically style and orgainzation
+- [ ] Work on README.md, specifically style and organization
 - [ ] Test URLs in `sitelist.md`
